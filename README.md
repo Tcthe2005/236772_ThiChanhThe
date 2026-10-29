@@ -1,20 +1,58 @@
-﻿# He thong quan ly mon an tren nen tang dam may
+﻿##### \# Hệ thống quản lý món ăn trên nền tảng đám mây
 
-## Thong tin sinh vien
-- MSSV: 236772
-- Ho ten: Thi Chanh The
+##### 
 
-## Cong nghe
-- Frontend: React
-- Backend: Node.js, Express
-- Database: MongoDB Atlas
-- Container: Docker
-- Deployment: Render
+##### \## Thông tin sinh viên
 
-## Cau truc du an
-- backend/: API quan ly mon an
-- frontend/: Giao dien nguoi dung
+##### \- \*\*MSSV:\*\* 236772
 
-## Huong dan
-Cau hinh bien moi truong trong backend/.env dua tren backend/.env.example.
-Khong cong khai mat khau hoac chuoi ket noi co thong tin dang nhap.
+##### \- \*\*Họ tên:\*\* Thi Chanh The
+
+##### 
+
+##### \## Công nghệ
+
+##### \- \*\*Frontend:\*\* React
+
+##### \- \*\*Backend:\*\* Node.js, Express
+
+##### \- \*\*Database:\*\* MongoDB Atlas
+
+##### \- \*\*Container:\*\* Docker
+
+##### \- \*\*Deployment:\*\* Render
+
+##### 
+
+##### \## Cấu trúc dự án
+
+##### \- `backend/`: API quản lý món ăn
+
+##### \- `frontend/`: Giao diện người dùng
+
+##### 
+
+##### \## Hướng dẫn cài đặt
+
+##### Cấu hình biến môi trường trong `backend/.env` dựa trên `backend/.env.example`.
+
+##### 
+
+##### Không công khai mật khẩu hoặc chuỗi kết nối có thông tin đăng nhập.
+
+##### 
+
+##### \## Câu 7. Triển khai frontend trên Render
+
+##### \- \*\*Docker Hub:\*\* https://hub.docker.com/r/thichanhthe/food-management-frontend
+
+##### \- \*\*Docker image:\*\* `thichanhthe/food-management-frontend:1.0`
+
+##### \- \*\*Nền tảng triển khai:\*\* Render
+
+##### \- \*\*URL frontend:\*\* https://web-236772.onrender.com
+
+##### 
+
+##### Frontend đã triển khai thành công trên Render. Cần cấu hình và kiểm tra kết nối backend API để hoàn thiện hoạt động của hệ thống.
+
